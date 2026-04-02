@@ -1,4 +1,4 @@
-##**Hi, I'm Anchita 😊**##
+## **Hi, I'm Anchita 😊** ##
 
 ### About me
 I’m a third-year Computer Science student at the University of California, San Diego, passionate about AI and machine learning. I also enjoy data science, particularly the end-to-end process of collecting, cleaning, and modeling data to uncover meaningful insights, and I’m especially motivated by projects that have real-world impact.
