@@ -1,7 +1,9 @@
 # **Hi, I'm Anchita 😊** #
 
+![My Image](my_image.jpg)
+
 ### About me
-I’m a third-year Computer Science student at the University of California, San Diego, passionate about AI and machine learning. I also enjoy data science, particularly the end-to-end process of collecting, cleaning, and modeling data to uncover meaningful insights, and I’m especially motivated by projects that have real-world impact.
+I’m a third-year undergraduate student studying Computer Science at the University of California, San Diego, with a strong interest in AI and machine learning. I also enjoy data science, particularly the end-to-end process of collecting, cleaning, and modeling data to uncover meaningful insights, and I’m especially motivated by projects that have real-world impact.
 
 Outside of academics, I enjoy reading fantasy and mystery novels, solving puzzles like Sudoku and word searches, and spending time with family and friends. 
 
@@ -39,5 +41,5 @@ I have also implemented core data structures in C++ [go to this repo]
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ### Contact
-Email: anchita.dash23@gmail.com
+Email: anchita.dash23@gmail.com<br>
 LinkedIn: linkedin.com/in/anchita-dash-570755229
