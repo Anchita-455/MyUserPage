@@ -26,7 +26,11 @@ If you’d like to collaborate, feel free to [contact me](#contact).
     - Followed an event-driven architecture with listeners and an MVC-style design for modularity and maintainability.
     - **Tools**: Java, AWT, Swing
   
-    To run the constellio app:
+    Compile and run the application using:
+    ```bash
+    javac Constellio.java
+    java Constellio
+    ```
      
   
 ### Skills
