@@ -45,6 +45,8 @@ If you’d like to collaborate, feel free to [contact me](#contact).
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+### [Learning Roadmap](LearningRoadmap.html)
+
 ### Contact
-📧 [Email] (mailto:anchita.dash23@gmail.com)<br>
+📧 [Email](mailto:anchita.dash23@gmail.com)<br>
 💼 [LinkedIn](https://linkedin.com/in/anchita-dash-570755229)
