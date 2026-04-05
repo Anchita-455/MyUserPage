@@ -22,11 +22,12 @@ If you’d like to collaborate, feel free to [contact me](#contact).
     - **Tools**: Python, Pandas, Scikit-learn, Matplotlib
 
 3. #### **Constellio** ####
-    - Designed and implemented a Java-based educational desktop application to help users learn about **constellations**, using **Java AWT and Swing**.
+    - Designed and implemented a Java-based educational desktop application to help users learn about **constellations**, using **Java AWT and Swing**
     - Followed an event-driven architecture with listeners and an MVC-style design for modularity and maintainability.
     - **Tools**: Java, AWT, Swing
   
-I have also implemented core data structures in C++ [go to this repo] 
+    To run the constellio app:
+     
   
 ### Skills
 ### Languages
@@ -41,5 +42,5 @@ I have also implemented core data structures in C++ [go to this repo]
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ### Contact
-📧 Email: anchita.dash23@gmail.com<br>
-💼 LinkedIn: [LinkedIn](linkedin.com/in/anchita-dash-570755229)
+📧 [Email] (mailto:anchita.dash23@gmail.com)<br>
+💼 [LinkedIn](https://linkedin.com/in/anchita-dash-570755229)
