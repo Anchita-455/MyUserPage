@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # **Hi, I'm Anchita 😊** #
 
 ![My Image](my_image.jpg)
