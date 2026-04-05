@@ -69,6 +69,6 @@ Machine Learning • Agentic AI • Object-Oriented Programming • Data Structu
 
 ### [Learning Roadmap](LearningRoadmap.html)
 
-### 📫 Contact
-[Email](mailto:anchita.dash23@gmail.com)<br>
-[LinkedIn](https://linkedin.com/in/anchita-dash-570755229)
+### Contact
+📧 [Email](mailto:anchita.dash23@gmail.com)<br>
+🔗 [LinkedIn](https://linkedin.com/in/anchita-dash-570755229)
