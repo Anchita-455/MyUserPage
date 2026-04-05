@@ -11,17 +11,17 @@ If you’d like to collaborate, feel free to [contact me](#contact).
 
 ### Projects
 
-1. #### **Richter's Predictor** ####
-    - Built a building damage classification model for the 2015 Nepal earthquake using ensemble methods (**XGBoost, LightGBM, Balanced Random Forest**), achieving 71% test accuracy.
+1. #### **Richter's Predictor** #### [Github Repo](https://github.com/Anchita-455/RichtersPredictor)
+    - Built a building damage classification model for the 2015 Nepal earthquake using ensemble methods (**XGBoost, LightGBM, Balanced Random Forest**), achieving ~71% test accuracy.
     - Applied hyperparameter tuning and stratified k-fold cross-validation to improve model performance and handle class imbalance.
     - **Tools**: Python, Pandas, Scikit-learn, Imbalanced-learn, Matplotlib
 
-2. #### **Human Activity Recognition (HAR)** ####
+2. #### **Human Activity Recognition (HAR)** #### [Github Repo](https://github.com/Anchita-455/HAR)
     - Clustered wearable sensor data using **K-Means** and **DBSCAN** with PCA for dimensionality reduction.
     - Evaluated performance using **Adjusted Rand Index (ARI)** and **silhouette** scores.
     - **Tools**: Python, Pandas, Scikit-learn, Matplotlib
 
-3. #### **Constellio** ####
+3. #### **Constellio** #### [Github Repo](https://github.com/Anchita-455/schoolprojects/tree/main/java/Constellio)
     - Designed and implemented a Java-based educational desktop application to help users learn about **constellations**, using **Java AWT and Swing**
     - Followed an event-driven architecture with listeners and an MVC-style design for modularity and maintainability.
     - **Tools**: Java, AWT, Swing
@@ -31,19 +31,44 @@ If you’d like to collaborate, feel free to [contact me](#contact).
     javac Constellio.java
     java Constellio
     ```
-     
-  
-### Skills
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
 
-### Core Tools & Libraries
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+### Experience
+#### Research Intern — CA-Futures Conservation Ecology Project  
+*Jun 2025 – Oct 2025*
+
+- Developed a web-based application to visualize habitat and connectivity models across climate scenarios  
+- Built backend with **py4web** and frontend with **Vue.js**, integrating **Leaflet.js** for geospatial visualization  
+- Improved usability and enabled local deployment for end users  
+
+#### Data Science Intern — CSM Technologies (Bhubaneswar, India)  
+*Aug 2024 – Sep 2024*
+
+- Built a pricing prediction model using multiple supervised ML algorithms  
+- Performed data cleaning, EDA, and feature engineering to improve model performance  
+- Deployed the model using **Streamlit** for interactive predictions  
+
+### Skills  
+
+#### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+#### ⚙️ Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![py4web](https://img.shields.io/badge/py4web-ff6f61?style=flat)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+#### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+#### 🧠 Concepts
+Machine Learning • Agentic AI • Object-Oriented Programming • Data Structures & Algorithms • MVC Architecture
 
 ### [Learning Roadmap](LearningRoadmap.html)
 
