@@ -7,7 +7,7 @@ I’m a third-year undergraduate student studying Computer Science at the Univer
 
 Outside of academics, I enjoy reading fantasy and mystery novels, solving puzzles like Sudoku and word searches, and spending time with family and friends. 
 
-If you’d like to collaborate, feel free to [contact me](#Contact).
+If you’d like to collaborate, feel free to [contact me](#contact).
 
 ### Projects
 
@@ -41,5 +41,5 @@ I have also implemented core data structures in C++ [go to this repo]
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ### Contact
-Email: anchita.dash23@gmail.com<br>
-LinkedIn: linkedin.com/in/anchita-dash-570755229
+📧 Email: anchita.dash23@gmail.com<br>
+💼 LinkedIn: [LinkedIn](linkedin.com/in/anchita-dash-570755229)
