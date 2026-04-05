@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 # **Hi, I'm Anchita 😊** #
 
 ![My Image](my_image.jpg)
