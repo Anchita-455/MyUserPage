@@ -56,22 +56,13 @@ If you’d like to collaborate, feel free to [contact me](#contact).
 ### ⚙️ Skills  
 
 #### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+Java • Python • C • C++
 
 #### Frameworks & Libraries
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![py4web](https://img.shields.io/badge/py4web-ff6f61?style=flat)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+Vue.js • py4web • Leaflet.js • NumPy • Pandas • scikit-learn • PyTorch • Seaborn • Matplotlib  
 
 #### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+AWS  
 
 #### Concepts
 Machine Learning • Agentic AI • Object-Oriented Programming • Data Structures & Algorithms • MVC Architecture
